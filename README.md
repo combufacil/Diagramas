@@ -1,1 +1,1 @@
---- Diagramas de Caso de Uso, Classes, e Atividade. ---
+--- Diagramas de Caso de Uso, Classes, Atividade, e Sequencia. ---
